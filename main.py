@@ -1,2 +1,1 @@
-print("Hello World")
-print("My name is Jose")
+print("Reading data from data/dataset.csv")
